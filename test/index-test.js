@@ -130,4 +130,5 @@ describe('<Product />', () => {
       expect(spy.called).toBeTruthy('The `weight` prop validator does not check for the weight ranging between 80 and 300.');
     });
   });
+  // jfhksfk
 });
